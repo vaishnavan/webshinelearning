@@ -1,0 +1,17 @@
+.forum_main {
+  padding: 50px;
+}
+.forum_main hr {
+  height: 5px;
+  width: 50px;
+}
+.forum_main p {
+  color: black;
+  font-size: 16px;
+}
+
+@media only screen and (max-width: 600px) {
+  .forum_main {
+    padding: 20px;
+  }
+}

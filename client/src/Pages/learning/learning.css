@@ -1,0 +1,67 @@
+.learningPath_main {
+  padding: 50px;
+}
+
+.learningPath_main hr {
+  height: 5px;
+  width: 50px;
+}
+.sticky img {
+  border: 1px solid rgb(179, 179, 179);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.learningCourse {
+  margin: 30px 0;
+}
+
+.learningCourse p {
+  color: black;
+  font-size: 16px;
+}
+
+.learningCourse ol li {
+  margin: 5px 0;
+}
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 10px;
+  font-size: 20px;
+  float: right;
+}
+
+.code_highlighter {
+  border-radius: 10px;
+  border-left: 5px solid #24a0ed;
+}
+
+.quiz_button {
+  display: inline-block;
+  background: #24a0ed;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.quiz_button a {
+  color: white;
+  font-size: 16px;
+}
+
+.selected {
+  background-color: rgb(7, 115, 216);
+}
+
+/* The list of options */
+.options {
+  padding: 8px;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+  .learningPath_main {
+    padding: 20px;
+  }
+}
