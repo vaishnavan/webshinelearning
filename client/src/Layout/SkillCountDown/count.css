@@ -1,0 +1,125 @@
+.count {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  height: 100px;
+  color: white;
+}
+.count1 {
+  color: black;
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  height: 100px;
+  padding: 20px;
+}
+
+.Clock_main {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+  font-size: 36px;
+}
+
+.Clock-content {
+  margin: 0 30px;
+}
+
+.count_content h3 {
+  padding: 20px 0;
+}
+
+.Clock-content label {
+  color: white;
+  background-color: #336278;
+  padding: 5px 10px;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.Clock-content .seconds label {
+  color: red;
+}
+
+@media only screen and (max-width: 992px) {
+  .count {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    height: 100px;
+  }
+  .count1 {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    height: 100px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .count {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    height: 100px;
+  }
+  .count1 {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    height: 100px;
+  }
+
+  .Clock_main {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    font-size: 24px;
+  }
+
+  .Clock-content {
+    margin: 0 20px;
+  }
+
+  .Clock-content label {
+    color: white;
+    background-color: #336278;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .count {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    height: 100px;
+  }
+  .count1 {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    height: 100px;
+  }
+
+  .Clock_main {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    font-size: 18px;
+  }
+
+  .Clock-content {
+    margin: 0 10px;
+  }
+
+  .Clock-content label {
+    color: white;
+    background-color: #336278;
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+  }
+}
