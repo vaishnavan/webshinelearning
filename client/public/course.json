@@ -1,0 +1,143 @@
+[
+    {
+        "courses": [
+            {
+                "CourseImg": "https://quill.com.au/wp-content/uploads/2020/04/html-css-js.jpg",
+                "CourseHead": "HTML, CSS, JavaScript",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "999/-"
+            },
+            {
+                "CourseImg": "videos/Reactjs.png",
+                "CourseHead": "React.Js",
+                "CourseContent": "",
+                "CourseDetail": "30 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "999/-"
+            },
+            {
+                "CourseImg": "videos/nodejs.png",
+                "CourseHead": "NodeJs and MongoDB",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "999/-"
+            },
+            {
+                "CourseImg": "videos/graphql.jpg",
+                "CourseHead": "GraphQL",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "799/-"
+            },
+            {
+                "CourseImg": "https://qph.fs.quoracdn.net/main-qimg-b1362c2db3d23c0fafa8623aa53fed75",
+                "CourseHead": "Data Structure and Algorithms",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "499/-"
+            },
+            {
+                "CourseImg": "https://content.techgig.com/thumb/msid-78576603,width-860,resizemode-4/4-most-common-C-programming-mistakes-that-you-must-avoid.jpg?72434",
+                "CourseHead": "C Programming",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "499/-"
+            },
+            {
+                "CourseImg": "videos/java.jpg",
+                "CourseHead": "Java core",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "399/-"
+            },
+            {
+                "CourseImg": "videos/python.png",
+                "CourseHead": "Python",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "499/-"
+            },
+            {
+                "CourseImg": "https://images.squarespace-cdn.com/content/v1/5b55f67f365f0274ebe2590b/1547838557709-7WEMZV6ZQ95NQPNDN2XW/Adobe-Photoshop-course-zurich.jpg?format=1500w",
+                "CourseHead": "Photoshop",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "699/-"
+            },
+            {
+                "CourseImg": "https://ecoursedeals.com/wp-content/uploads/2018/06/995922_49a7.jpg",
+                "CourseHead": "Shopify",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "499/-"
+            },
+            {
+                "CourseImg": "https://miro.medium.com/max/1480/0*cK0MdLj9fJFUzDis.jpg",
+                "CourseHead": "Firebase",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "299/-"
+            },
+            {
+                "CourseImg": "https://www.trainingnepal.com/wp-content/uploads/2018/04/MySQL-Course.jpg",
+                "CourseHead": "MySQL",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "499/-"
+            },
+            {
+                "CourseImg": "https://ccweb.imgix.net/https%3A%2F%2Fccweb.imgix.net%2Fhttps%253A%252F%252Fd3f1iyfxxz8i1e.cloudfront.net%252Fcourses%252Fcourse_image%252Fc94c3ea378f0.jpg%3Far%3D16%253A9%26auto%3Dformat%26cs%3Dstrip%26fit%3Dcrop%26h%3D380%26ixlib%3Dphp-3.3.0%26w%3D535%26s%3D15e50c79e90f7c1198892672f903d6f0?auto=format&ixlib=php-3.3.0&s=27db4a9bf607c4f26b332797158f3fe9",
+                "CourseHead": "SASS",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "399/-"
+            },
+            {
+                "CourseImg": "https://www.bitdegree.org/storage/file-377-Np14nSLj1dRNKdOs.jpg",
+                "CourseHead": "Bootstrap",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "399/-"
+            },
+            {
+                "CourseImg": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/angular-pwa-course.png",
+                "CourseHead": "Angular",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "999/-"
+            },
+            {
+                "CourseImg": "https://miro.medium.com/max/4116/1*MuaGTTGE_LE7oaFOV2yuzA.png",
+                "CourseHead": "TypeScript",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "699/-"
+            },
+            {
+                "CourseImg": "https://uditha.files.wordpress.com/2018/07/react-native.png",
+                "CourseHead": "ReactNative",
+                "CourseContent": "",
+                "CourseDetail": "24 Live Training classes | Project Based Training | Mentor Support",
+                "coursebook": "Book your course to Start Learning.",
+                "CoursePrice": "999/-"
+            }
+
+        ]
+    }
+]
