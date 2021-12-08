@@ -1,0 +1,70 @@
+.leaner_comment p {
+  color: black;
+  font-size: 16px;
+}
+.learners_review h2 {
+  text-align: center;
+}
+.reviews_main {
+  padding: 20px;
+}
+.total_reviews {
+  background-color: gray;
+  margin: 20px 0;
+  padding: 10px;
+  color: white;
+}
+.reviews_main form {
+  padding: 20px 100px;
+}
+.leaner_profile span {
+  font-size: 16px;
+}
+.leaner_profile p {
+  color: black;
+}
+.leaner_comment {
+  padding: 20px;
+}
+.reviews_content {
+  border: 1px solid rgb(238, 238, 238);
+  padding: 10px;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+  margin: 10px 0;
+}
+.leaner_profile span img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin: 0 10px;
+}
+.review_main_content button {
+  width: 100%;
+  padding: 10px;
+  background-color: #336278;
+  color: white;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.review_main_content button:hover {
+  background-color: #216c8f;
+}
+.reviews_main form {
+  border: 1px solid rgb(212, 210, 210);
+  margin: 10px 0;
+}
+@media only screen and (max-width: 768px) {
+  .reviews_main form {
+    padding: 10px 70px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .reviews_main form {
+    padding: 10px 40px;
+  }
+}

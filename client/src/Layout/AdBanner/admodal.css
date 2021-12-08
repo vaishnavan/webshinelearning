@@ -1,0 +1,22 @@
+.modal-content {
+  background-color: #336278;
+  color: white;
+}
+.modal-content .modal-body {
+  color: white;
+}
+.modal-header button {
+  color: white;
+}
+.modal-dialog .modal-content {
+  box-shadow: 0 0 100px rgba(0, 0, 0, 0.5);
+}
+.ADbtn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.carousel-control-next {
+  display: none;
+}

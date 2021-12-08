@@ -1,0 +1,47 @@
+.course_main {
+  margin-top: 50px;
+}
+
+.course_main h2 {
+  text-align: center;
+}
+
+.course_main hr {
+  width: 60px;
+  margin: 0 auto;
+  height: 8px;
+  border-radius: 5px;
+  color: red;
+}
+
+.accordion {
+  margin-top: 50px;
+}
+
+.accordion-item {
+  margin: 10px 0;
+}
+
+.accordion-header .accordion-button {
+  color: black;
+  background-color: #fdfdfd;
+  outline: none;
+  border: 1px solid rgb(233, 231, 231);
+  box-shadow: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.accordion-body {
+  font-size: 16px;
+  border: 1px solid rgb(233, 231, 231);
+}
+
+.accordion-body ol li {
+  margin: 8px 0;
+}
+
+.accordion-button button:focus {
+  outline: none !important;
+  box-shadow: none;
+}

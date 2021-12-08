@@ -1,0 +1,88 @@
+.banner_head {
+  width: 100%;
+  height: 200px;
+  background-image: url(https://cdn.wallpapersafari.com/33/16/ho8nI3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.banner_head h3 {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+.banner_content {
+  text-align: center;
+  margin-top: -50px !important;
+}
+.banner_content p {
+  color: black;
+  border: 1px solid rgb(185, 185, 185);
+  margin: 80px;
+  max-height: 300px;
+  color: black;
+  font-size: 16px;
+  background: rgb(248, 248, 248);
+  padding: 20px;
+}
+.service_heading {
+  text-align: center;
+}
+.services_specMain {
+  padding: 50px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.services_specDetail p {
+  color: black;
+  font-size: 16px;
+}
+.services_specImage img {
+  width: 200px;
+  height: 200px;
+}
+.service_heading {
+  margin-top: 20px;
+}
+
+.services_spec {
+  border: 1px solid rgb(223, 222, 222);
+  padding: 20px;
+  margin: 30px auto;
+  text-align: center;
+  width: 250px;
+  height: 250px;
+  border-radius: 5px;
+}
+.services_spec:hover {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+@media only screen and (max-width: 600px) {
+  .banner_content p {
+    margin: 40px;
+  }
+  .services_specMain {
+    flex-direction: column;
+  }
+  .services_specImage img {
+    width: 180px;
+    height: 180px;
+  }
+  .services_spec {
+    border: 1px solid rgb(223, 222, 222);
+    padding: 20px;
+    margin: 10px auto;
+    text-align: center;
+    width: 280px;
+    height: 280px;
+  }
+  .services_specMain {
+    padding: 20px;
+  }
+}

@@ -1,0 +1,27 @@
+.challenge_main {
+  padding: 50px;
+}
+
+.challenge_main img {
+  object-fit: contain;
+  width: 100%;
+  margin: 20px 0;
+}
+
+@media only screen and (max-width: 992px) {
+  .challenge_main {
+    padding: 30px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .challenge_main {
+    padding: 20px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .challenge_main {
+    padding: 20px;
+  }
+}

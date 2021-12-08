@@ -1,0 +1,130 @@
+.github_search input[type='search'] {
+  width: 50%;
+  padding: 10px;
+  border: 3px solid rgb(211, 208, 208);
+  outline: none;
+}
+.github_search {
+  padding: 30px;
+  text-align: center;
+}
+.github_card {
+  padding: 20px;
+  text-align: center;
+}
+.github_card_box img {
+  width: 300px;
+  height: 300px;
+  border-radius: 40px;
+}
+.Github_table table {
+  margin: 40px auto;
+  padding: 10px;
+}
+.Github_table table,
+tr,
+td {
+  border: 1px solid rgb(196, 196, 196);
+}
+.Github_table table,
+td,
+th {
+  padding: 10px;
+}
+.repodata_diaplay {
+  text-align: center;
+}
+.github_scroller_design {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid rgb(224, 221, 221);
+  margin: 20px 0;
+  padding: 10px;
+  width: 800px;
+  margin: 20px auto;
+  text-align: center;
+}
+.github_scroller_main div {
+  margin: 10px 0;
+}
+.github_repoName {
+  text-align: center;
+}
+
+@media (max-width: 992px) {
+  .github_search input[type='search'] {
+    width: 50%;
+    padding: 10px;
+    border: 3px solid rgb(211, 208, 208);
+    outline: none;
+  }
+  .github_scroller_design {
+    width: 600px;
+  }
+}
+
+@media (max-width: 768px) {
+  .github_search input[type='search'] {
+    width: 70%;
+    padding: 10px;
+    border: 3px solid rgb(211, 208, 208);
+    outline: none;
+  }
+  .github_scroller_design {
+    width: 400px;
+  }
+}
+
+@media (max-width: 600px) {
+  .github_search input[type='search'] {
+    width: 70%;
+    padding: 10px;
+    border: 3px solid rgb(211, 208, 208);
+    outline: none;
+  }
+  .github_scroller_design {
+    display: flex;
+    flex-direction: column;
+  }
+  .Github_table table {
+    margin: 20px auto;
+    padding: 10px;
+    width: 320px;
+  }
+  .Github_table table,
+  td,
+  th {
+    font-size: 12px;
+  }
+  .github_repocreated h3 {
+    font-size: 14px;
+  }
+  .github_repoName h3 {
+    font-size: 14px;
+  }
+  .github_repolang h3 {
+    font-size: 14px;
+  }
+  .github_scroller_design {
+    width: 320px;
+  }
+}
+.github_card_btn {
+  padding: 10px;
+  color: rgb(248, 246, 246);
+  background-color: #336278;
+  width: 100px;
+  outline: none;
+  border: 3px solid rgb(196, 196, 196);
+}
+@media (max-width: 600px) {
+  .github_card_btn {
+    padding: 10px;
+    color: rgb(248, 246, 246);
+    background-color: #336278;
+    width: 80px;
+    outline: none;
+    border: 3px solid rgb(196, 196, 196);
+  }
+}

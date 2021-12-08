@@ -1,0 +1,24 @@
+.journeyform_main {
+  padding: 50px;
+}
+.journeyform_main h2 {
+  text-align: center;
+}
+
+@media only screen and (max-width: 992px) {
+  .journeyform_main {
+    padding: 30px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .journeyform_main {
+    padding: 20px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .journeyform_main {
+    padding: 20px;
+  }
+}

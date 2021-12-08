@@ -1,0 +1,41 @@
+.batch_starcontent p {
+  color: black;
+  font-size: 16px;
+  text-align: center;
+}
+.batchcontent_main {
+  padding: 50px 0;
+}
+
+.batch_heading {
+  text-align: center;
+  padding: 30px 0;
+}
+.batch_heading hr {
+  width: 60px;
+  margin: 0 auto;
+  height: 8px;
+  border-radius: 5px;
+  color: red;
+}
+.leader_button {
+  text-align: center;
+  padding: 30px 0;
+}
+.leader_button a {
+  background-color: #24a0ed;
+  padding: 10px;
+  text-align: center;
+  border-radius: 50px;
+  color: white;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .batch_starcontent p {
+    color: black;
+    font-size: 16px;
+    text-align: center;
+    padding: 20px;
+  }
+}

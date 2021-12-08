@@ -1,0 +1,51 @@
+.codeStack_content2 pre {
+  width: 100%;
+  max-height: 500px;
+  overflow: auto;
+  padding: 30px;
+}
+.codeStack_topic p {
+  color: black;
+}
+.codeStack_content {
+  display: flex;
+  justify-content: space-between;
+}
+.codeStack_content h3 {
+  color: rgb(139, 114, 53);
+}
+.codeStack_topic h3 {
+  text-align: center;
+  text-transform: capitalize;
+  padding: 50px;
+  color: gray;
+}
+.codeStack_content2 {
+  margin: 40px 0;
+}
+.codeStack_card {
+  width: 100%;
+}
+.codeStack_content2 {
+  border: 1px solid rgb(226, 226, 226);
+}
+.codeStack_content2 p {
+  color: black;
+}
+.codeStack_search input[type='search'] {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  border: 2px solid rgb(187, 184, 184);
+  font-size: 16px;
+}
+.stack-loader {
+  text-align: center;
+  margin-top: 150px;
+}
+
+@media (max-width: 600px) {
+  .codeStack_content h3 {
+    font-size: 16px;
+  }
+}

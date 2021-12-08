@@ -1,0 +1,15 @@
+.CodeStackBtn_design {
+  text-align: center;
+  margin: 20px 0;
+}
+.CodeStackBtn_design a {
+  display: block;
+  background-color: gray;
+  padding: 10px;
+  color: white;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+}
+.CodeStackBtn_design a:hover {
+  color: white;
+}

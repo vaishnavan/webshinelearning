@@ -1,0 +1,127 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+#footer {
+  background: #336278 !important;
+  padding: 60px 0;
+  margin: 40px 0;
+  width: 100%;
+}
+
+#mc_embed_signup {
+  background: #336278;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
+  color: white;
+}
+
+.footer_subscribe p {
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+.list-unstyled li {
+  color: white;
+  margin: 10px 0;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+#footer h3 {
+  padding-left: 10px;
+  padding-bottom: 6px;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+.quick-links li a {
+  font-size: 16px;
+  letter-spacing: 0.5px;
+}
+#footer a {
+  color: #ffffff;
+  text-decoration: none !important;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+.footer_subscribe h3,
+.address_main h3 {
+  text-align: center;
+}
+.link_main h3 {
+  text-align: center;
+}
+#footer ul.social li {
+  padding: 3px 0;
+}
+
+#footer ul.social li a i {
+  margin-right: 5px;
+  font-size: 25px;
+  -webkit-transition: 0.5s all ease;
+  -moz-transition: 0.5s all ease;
+  transition: 0.5s all ease;
+}
+
+#footer ul.social li:hover a i {
+  font-size: 30px;
+  margin-top: -10px;
+  color: rgb(216, 62, 24);
+}
+
+/* #footer ul.quick-links li{
+    padding: 3px 0;
+} */
+#footer ul.social li a {
+  color: #ffffff;
+}
+
+#footer ul.quick-links li a {
+  color: #ffffff;
+}
+
+#footer ul.quick-links li {
+  padding: 3px 0;
+}
+
+#footer ul.quick-links li a i {
+  margin-right: 5px;
+}
+
+#subscribe h3,
+p {
+  color: #ffffff;
+}
+
+#subscribe input[type='text'] {
+  padding: 12px 20px;
+  margin: 12px 0;
+  box-sizing: border-box;
+  border-radius: 10px;
+  outline: none;
+  width: 60%;
+  height: 20%;
+  border: 1px solid #7c7b7b;
+}
+
+#subscribe button {
+  height: 40px;
+  padding: 0;
+  margin: 0;
+}
+
+#subscribe .btn {
+  border-radius: 30px;
+  width: 30%;
+  margin-left: 5px;
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  #footer h5 {
+    padding-left: 0;
+    border-left: transparent;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+  }
+}

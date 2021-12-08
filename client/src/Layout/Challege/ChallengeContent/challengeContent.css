@@ -1,0 +1,56 @@
+.challengeContent_welcome {
+  text-align: center;
+}
+
+.challengeContent_welcome p {
+  color: black;
+  font-size: 16px;
+}
+
+.challengeContent_welcome h2 {
+  display: inline-block;
+  padding: 10px 70px;
+  border-radius: 5px;
+}
+
+.content_rules {
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.content_rules ol li {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.content_public p {
+  color: black;
+  font-size: 16px;
+}
+
+.content_public {
+  text-align: center;
+}
+
+.challengeForum_disqus {
+  margin: 30px 0;
+}
+
+.content_public a {
+  color: white;
+  background-color: #336278;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.content_public a:hover {
+  color: white;
+  background-color: #336278;
+}
+
+@media only screen and (max-width: 600px) {
+  .challengeContent_welcome h2 {
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+}

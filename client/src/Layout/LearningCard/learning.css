@@ -1,0 +1,123 @@
+.video_data {
+  background-image: linear-gradient(rgba(107, 107, 107, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../../images/banner.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.video_data h2 {
+  text-align: center;
+  padding: 10px;
+  color: white;
+  margin: 70px 0;
+}
+
+.video_data video {
+  padding: 10px;
+  margin: 30px 0;
+}
+
+.learningCard_Heading {
+  padding: 50px;
+  text-align: center;
+}
+
+.moreCourse_btn a {
+  display: block;
+  text-align: center;
+  background-color: #24a0ed;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+.learningCard_Heading hr {
+  width: 60px;
+  margin: 0 auto;
+  height: 8px;
+  border-radius: 5px;
+  color: red;
+}
+
+.learningCard_design {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 30px;
+}
+
+.learningCard_content {
+  margin-top: 20px;
+  width: 300px;
+  border: 1px solid rgb(230, 229, 229);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  border-top: 7px solid #24a0ed;
+}
+
+.skill_topic {
+  padding: 20px;
+  text-align: center;
+}
+
+/* .skill_image {
+    width: 300px;
+} */
+
+.skill_image img {
+  width: 100%;
+  height: 150px;
+}
+
+.contactshow {
+  display: block;
+  text-align: center;
+}
+.contactshow {
+  background-color: #24a0ed;
+  padding: 10px;
+  border-radius: 50px;
+  color: white;
+}
+.contacthide {
+  display: none;
+}
+
+.skill_conent {
+  padding: 20px;
+}
+
+.skill_conent p {
+  font-size: 16px;
+  color: black;
+}
+.skill_conent h4 {
+  color: black;
+}
+
+.skill_conent .skill_price {
+  background-color: #24a0ed;
+  padding: 10px;
+  text-align: center;
+  border-radius: 50px;
+  color: white;
+  cursor: pointer;
+}
+
+.skill_conent .skill_price:hover {
+  background-color: #177ebe;
+}
+
+.courseButton_main {
+  padding: 0 50px;
+}
+
+@media only screen and (max-width: 600px) {
+  .learningCard_design {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+}

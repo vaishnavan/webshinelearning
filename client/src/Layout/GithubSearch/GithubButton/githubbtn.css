@@ -1,0 +1,15 @@
+.github_button a {
+  display: block;
+  text-align: center;
+  background-color: gray;
+  padding: 10px;
+  margin: 20px 0;
+  cursor: pointer;
+  color: white;
+  text-decoration: none;
+}
+
+.github_button a:hover {
+  color: white;
+  text-decoration: none;
+}

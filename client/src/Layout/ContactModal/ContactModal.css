@@ -1,0 +1,14 @@
+.modal-backdrop {
+  display: none;
+}
+.btn {
+  background-color: rgb(7, 84, 146);
+  color: white;
+  letter-spacing: 0.5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+.modal-body {
+  color: black;
+}
