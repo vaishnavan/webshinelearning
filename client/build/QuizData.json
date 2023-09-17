@@ -1,0 +1,1111 @@
+[
+  {
+    "ReactMcq": [
+      {
+        "question": "Select Javascript library?",
+        "answers": [
+          "Angular",
+          "React",
+          "Redux",
+          "Vue"
+        ],
+        "correct": "React",
+        "questionId": "101"
+      },
+      {
+        "question": "Styling is used to?",
+        "answers": [
+          "Add logic",
+          "Attractive",
+          "look simple",
+          "none of above"
+        ],
+        "correct": "Attractive",
+        "questionId": "102"
+      },
+      {
+        "question": "ReactJS is an MVC based framework?",
+        "answers": [
+          "True",
+          "False"
+        ],
+        "correct": "True",
+        "questionId": "103"
+      },
+      {
+        "question": "What is ReactJS?",
+        "answers": [
+          "Server-side Framework",
+          "User-interface framework",
+          "Both",
+          "None"
+        ],
+        "correct": "Both",
+        "questionId": "104"
+      },
+      {
+        "question": "How can you access the state of a component from inside of a member function?",
+        "answers": [
+          " this.getState()",
+          " this.prototype.stateValue",
+          "this.state",
+          "this.values"
+        ],
+        "correct": "this.values",
+        "questionId": "105"
+      },
+      {
+        "question": "What is a react.js in MVC?",
+        "answers": [
+          "Controller",
+          "Middleware",
+          "Model",
+          "Router"
+        ],
+        "correct": "Controller",
+        "questionId": "106"
+      },
+      {
+        "question": "What does the “webpack” command do?",
+        "answers": [
+          "Transpiles all the Javascript down into one file",
+          "Runs react local development server",
+          "None",
+          "Both A and B"
+        ],
+        "correct": "Transpiles all the Javascript down into one file",
+        "questionId": "107"
+      },
+      {
+        "question": "At the highest level, React components have lifecycle events that fall into",
+        "answers": [
+          "Initialization",
+          "State/Property Updates",
+          "Destruction",
+          "All of these"
+        ],
+        "correct": "All of these",
+        "questionId": "108"
+      },
+      {
+        "question": "ReactJS covers _________",
+        "answers": [
+          "User Interface layer in an application",
+          "Data layer in an application",
+          "Both a and b",
+          "None of above"
+        ],
+        "correct": "User Interface layer in an application",
+        "questionId": "109"
+      },
+      {
+        "question": "ReactJS uses _____ to increase performance",
+        "answers": [
+          "Virtual DOM",
+          "Original DOM",
+          "Both of above",
+          "None of above"
+        ],
+        "correct": "Virtual DOM",
+        "questionId": "110"
+      },
+      {
+        "question": "Number of elements, a valid react component can return",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correct": "1",
+        "questionId": "111"
+      },
+      {
+        "question": "State in react is________",
+        "answers": [
+          "A permanent storage",
+          "Internal storage of the component",
+          "Both of above",
+          "None of above"
+        ],
+        "correct": "Internal storage of the component",
+        "questionId": "112"
+      },
+      {
+        "question": "props in react can________",
+        "answers": [
+          "Be changed inside the component",
+          "Not be changed in the component",
+          "Be changed in side other component",
+          "None of above"
+        ],
+        "correct": "Not be changed in the component",
+        "questionId": "113"
+      },
+      {
+        "question": "In ReactJS, props can be used to pass",
+        "answers": [
+          "Properties to the component",
+          "Event handler to component",
+          "Both of above",
+          "None of above"
+        ],
+        "correct": "Both of above",
+        "questionId": "114"
+      }
+    ],
+    "HtmlMcq": [
+      {
+        "question": "HTML stands for?",
+        "answers": [
+          "Hyper languange",
+          "Hyperspeach languange",
+          "Hypertext markup language",
+          "none"
+        ],
+        "correct": "Hypertext markup language",
+        "questionId": "101"
+      },
+      {
+        "question": "The correct sequence of HTML tags for starting a webpage is -",
+        "answers": [
+          "Head, Title, HTML, body",
+          "HTML, Body, Title, Head",
+          "HTML, Body, Head, Title",
+          "HTML, Head, Title, Body"
+        ],
+        "correct": "HTML, Head, Title, Body",
+        "questionId": "102"
+      },
+      {
+        "question": "Which of the following tag is used to insert a line-break in HTML?",
+        "answers": [
+          "<br>",
+          "<a>",
+          "<pre>",
+          "<b>"
+        ],
+        "correct": "<br>",
+        "questionId": "103"
+      },
+      {
+        "question": "How to create a hyperlink in HTML?",
+        "answers": [
+          "<a href=#> webshine.com </a>",
+          "<a url=#> webshine.com </a>",
+          "<a link=#> webshine.com </a>",
+          "<a to=#> webshine.com </a>"
+        ],
+        "correct": "<a href=#> webshine.com </a>",
+        "questionId": "104"
+      },
+      {
+        "question": "How to insert an image tag in HTML?",
+        "answers": [
+          "img",
+          "image",
+          "<img />",
+          "<src />"
+        ],
+        "correct": "<img />",
+        "questionId": "105"
+      },
+      {
+        "question": "Which of the following tag is used to define options in a drop-down selection list?",
+        "answers": [
+          "<select>",
+          "<list>",
+          "<dropdown>",
+          "<option>"
+        ],
+        "correct": "<option>",
+        "questionId": "106"
+      },
+      {
+        "question": "Which of the following attribute is used to provide a unique name to an element?",
+        "answers": [
+          "<p>",
+          "id",
+          "type",
+          "None of the above"
+        ],
+        "correct": "id",
+        "questionId": "107"
+      },
+      {
+        "question": "Which of the following HTML tag is the special formatting tag?",
+        "answers": [
+          "<p>",
+          "<b>",
+          "<pre>",
+          "None of the above"
+        ],
+        "correct": "<pre>",
+        "questionId": "108"
+      },
+      {
+        "question": "What are the types of unordered or bulleted list in HTML?",
+        "answers": [
+          "disc, square, triangle",
+          "polygon, triangle, circle",
+          "disc, circle, square",
+          "All of the above"
+        ],
+        "correct": "disc, circle, square",
+        "questionId": "109"
+      },
+      {
+        "question": "Which of the following HTML attribute is used to define inline styles?",
+        "answers": [
+          "style",
+          "type",
+          "class",
+          "None of the above"
+        ],
+        "correct": "style",
+        "questionId": "110"
+      },
+      {
+        "question": "In HTML5, which of the following tag is used to initialize the document type?",
+        "answers": [
+          "<Doctype HTML>",
+          "<Doctype html />",
+          "<Doctype>",
+          "<!DOCTYPE html>"
+        ],
+        "correct": "<!DOCTYPE html>",
+        "questionId": "111"
+      },
+      {
+        "question": "The tags in HTML are -",
+        "answers": [
+          "case-sensitive",
+          "in upper case",
+          "not case sensitive",
+          "in lowercase"
+        ],
+        "correct": "not case sensitive",
+        "questionId": "112"
+      },
+      {
+        "question": "A program in HTML can be rendered and read by -",
+        "answers": [
+          "Web browser",
+          "Server",
+          "Interpreter",
+          "None of the above"
+        ],
+        "correct": "Web browser",
+        "questionId": "113"
+      },
+      {
+        "question": "Fundamental HTML Block is known as ___________.",
+        "answers": [
+          "HTML Body",
+          "HTML Tag",
+          "HTML Attribute",
+          "HTML Element"
+        ],
+        "correct": "HTML Body",
+        "questionId": "114"
+      },
+      {
+        "question": "Which HTML tag produces the biggest heading?",
+        "answers": [
+          "<h7>",
+          "<h9>",
+          "<h4>",
+          "<h1>"
+        ],
+        "correct": "<h1>",
+        "questionId": "115"
+      },
+      {
+        "question": "Tags and texts that are not directly displayed on the page are written in _____ section.",
+        "answers": [
+          "<head>",
+          "<title>",
+          "<body>",
+          "<html>"
+        ],
+        "correct": "<head>",
+        "questionId": "116"
+      },
+      {
+        "question": "HTML tags are surrounded by which type of brackets.",
+        "answers": [
+          "Curly",
+          "Round",
+          "Squart",
+          "Angle"
+        ],
+        "correct": "Angle",
+        "questionId": "117"
+      },
+      {
+        "question": "In which part of the HTML metadata is contained?",
+        "answers": [
+          "body tag",
+          "html tag",
+          "head tag",
+          "title tag"
+        ],
+        "correct": "head tag",
+        "questionId": "118"
+      },
+      {
+        "question": "Which of the following is not supported in HTML5?",
+        "answers": [
+          "scheme",
+          "content",
+          "http-equiv",
+          "name"
+        ],
+        "correct": "scheme",
+        "questionId": "119"
+      },
+      {
+        "question": "<input> is -",
+        "answers": [
+          "a format tag.",
+          "an empty tag.",
+          "All of the above",
+          "None of the above"
+        ],
+        "correct": "an empty tag.",
+        "questionId": "120"
+      },
+      {
+        "question": "Which of the following tag is used to make the underlined text?",
+        "answers": [
+          "<i>",
+          "<ul>",
+          "<u>",
+          "<pre>"
+        ],
+        "correct": "<u>",
+        "questionId": "121"
+      },
+      {
+        "question": "How to create a checkbox in HTML?",
+        "answers": [
+          "<input type = `checkbox`>",
+          "<input type = `checked`>",
+          "<checkbox>",
+          "<input type = `check`>"
+        ],
+        "correct": "<input type = `checkbox`>",
+        "questionId": "122"
+      },
+      {
+        "question": "Which of the following tag is used to define options in a drop-down selection list?",
+        "answers": [
+          "<select>",
+          "<list>",
+          "<dropdown>",
+          "<option>"
+        ],
+        "correct": "<option>",
+        "questionId": "123"
+      },
+      {
+        "question": "Which of the following tag is used to add rows in the table?",
+        "answers": [
+          "<td> and </td>",
+          "<th> and </th>",
+          "<tr> and </tr>",
+          "None of the above"
+        ],
+        "correct": "<tr> and </tr>",
+        "questionId": "124"
+      },
+      {
+        "question": "Which of the following HTML tag is used to display the text with scrolling effect?",
+        "answers": [
+          "<marquee>",
+          "<scroll>",
+          "<div>",
+          "None of the above"
+        ],
+        "correct": "<marquee>",
+        "questionId": "125"
+      },
+      {
+        "question": "The <hr> tag in HTML is used for -",
+        "answers": [
+          "new line",
+          "vertical ruler",
+          "new paragraph",
+          "horizontal ruler"
+        ],
+        "correct": "horizontal ruler",
+        "questionId": "126"
+      },
+      {
+        "question": "Which of the following is the container for <tr>, <th>, and <td> ?",
+        "answers": [
+          "<data>",
+          "<table>",
+          "<group>",
+          "All of the above"
+        ],
+        "correct": "<table>",
+        "questionId": "127"
+      },
+      {
+        "question": "What are the types of unordered or bulleted list in HTML?",
+        "answers": [
+          "disc, square, triangle",
+          "polygon, triangle, circle",
+          "disc, circle, square",
+          "All of the above"
+        ],
+        "correct": "disc, circle, square",
+        "questionId": "128"
+      },
+      {
+        "question": "Which of the following HTML attribute is used to define inline styles?",
+        "answers": [
+          "style",
+          "type",
+          "class",
+          "None of the above"
+        ],
+        "correct": "style",
+        "questionId": "129"
+      },
+      {
+        "question": "Which of the following is the paragraph tag in HTML?",
+        "answers": [
+          "<p>",
+          "<b>",
+          "<pre>",
+          "None of the above"
+        ],
+        "correct": "<p>",
+        "questionId": "130"
+      },
+      {
+        "question": "An HTML program is saved by using the ____ extension.",
+        "answers": [
+          ".ht",
+          ".html",
+          ".hml",
+          "None of the above"
+        ],
+        "correct": ".html",
+        "questionId": "131"
+      },
+      {
+        "question": "Which of the following are the attributes of the tag?",
+        "answers": [
+          "method",
+          "action",
+          "Both (a) & (b)",
+          "None of the above"
+        ],
+        "correct": "Both (a) & (b)",
+        "questionId": "132"
+      },
+      {
+        "question": "A program in HTML can be rendered and read by -",
+        "answers": [
+          "Web browser",
+          "Server",
+          "Interpreter",
+          "None of the above"
+        ],
+        "correct": "Web browser",
+        "questionId": "133"
+      },
+      {
+        "question": "Any part of the graphic that is not included in another hot zone is considered to be part of",
+        "answers": [
+          "rect",
+          "point",
+          "default",
+          "polygon"
+        ],
+        "correct": "default",
+        "questionId": "134"
+      },
+      {
+        "question": "The tag which allows you to rest other HTML tags within the description is",
+        "answers": [
+          "<TH>",
+          "<TD>",
+          "<TR>",
+          "<CAPTION>"
+        ],
+        "correct": "<CAPTION>",
+        "questionId": "135"
+      },
+      {
+        "question": "Character encoding is",
+        "answers": [
+          "method used to represent numbers in a character",
+          "method used to represent character in a number",
+          "a system that consists of a code which pairs each character with a pattern,sequence of natural numbers or electrical pulse in order to transmit the data",
+          "none of these"
+        ],
+        "correct": "a system that consists of a code which pairs each character with a pattern,sequence of natural numbers or electrical pulse in order to transmit the data",
+        "questionId": "136"
+      },
+      {
+        "question": "www is based on which model?",
+        "answers": [
+          "Local-server",
+          "Client-server",
+          "3-tier",
+          "All of the above"
+        ],
+        "correct": "Client-server",
+        "questionId": "137"
+      },
+      {
+        "question": "Which of the following attributes of text box control allow to limit the maximum character?",
+        "answers": [
+          "size",
+          "len",
+          "maxlength",
+          "all of these"
+        ],
+        "correct": "maxlength",
+        "questionId": "138"
+      }
+    ],
+    "CssMcq": [
+      {
+        "question": "Pseudo-classes In CSS",
+        "answers": [
+          "Match A Specified Element",
+          "Select The Active Links",
+          "Are Used To Select All The Visited Links",
+          "Are Used To Define A Special State Of An Element"
+        ],
+        "correct": "Are Used To Define A Special State Of An Element",
+        "questionId": "101"
+      },
+      {
+        "question": "Which Is The Correct CSS Syntax?",
+        "answers": [
+          "Body:color=black",
+          "{body;color:black}",
+          "{body:color=black(body}",
+          "Body {color: Black}"
+        ],
+        "correct": "Body {color: Black}",
+        "questionId": "102"
+      },
+      {
+        "question": "Which CSS Property Is Used For Controlling The Layout?",
+        "answers": [
+          "Header",
+          " Footer",
+          "Display",
+          "None Of The Above"
+        ],
+        "correct": "Display",
+        "questionId": "103"
+      },
+      {
+        "question": "Which CSS Property Sets A Background Image For An Element?",
+        "answers": [
+          "Background - Color",
+          "Background - Image",
+          "Background - Attachment",
+          "None of These"
+        ],
+        "correct": "Background - Image",
+        "questionId": "104"
+      },
+      {
+        "question": " Which Of The Following Properties Will We Use To Display Border Around A Cell Without Any Content ?",
+        "answers": [
+          "Noncontent-cell",
+          "Blank-cell",
+          "Empty-cell",
+          "Void-cell"
+        ],
+        "correct": "Empty-cell",
+        "questionId": "105"
+      },
+      {
+        "question": "Which CSS Property Is Used To Control The Text Size Of An Element ?",
+        "answers": [
+          "Font-style",
+          "Font-size",
+          "Text-size",
+          "Text-style"
+        ],
+        "correct": "Font-size",
+        "questionId": "106"
+      },
+      {
+        "question": "Which of the following defines a measurement relative to a font's x-height?",
+        "answers": [
+          "%",
+          "cm",
+          "em",
+          "ex"
+        ],
+        "correct": "ex",
+        "questionId": "107"
+      },
+      {
+        "question": "Which of the following property serves as shorthand for the marker properties?",
+        "answers": [
+          "list-style-type",
+          "list-style-position",
+          "list-style-image",
+          "list-style"
+        ],
+        "correct": "list-style",
+        "questionId": "108"
+      },
+      {
+        "question": "Which of the following property is used to add or subtract space between the words of a sentence?",
+        "answers": [
+          "color",
+          "letter-spacing",
+          "direction",
+          "word-spacing"
+        ],
+        "correct": "word-spacing",
+        "questionId": "109"
+      },
+      {
+        "question": "Which of the following property is used to set the width of an image?",
+        "answers": [
+          "border",
+          "height",
+          "width",
+          "--moz-opacity"
+        ],
+        "correct": "width",                                             
+        "questionId": "110"
+      },
+      {
+        "question": "HTML element h1 is used in CSS for styling then it is also called a?",
+        "answers": [
+          "Attribute",
+          "Value",
+          "Selector",
+          "Tag"
+        ],
+        "correct": "Selector",
+        "questionId": "111"
+      },
+      {
+        "question": "Which of the following property specifies the top padding of an element?",
+        "answers": [
+          "padding-bottom",
+          "padding-top",
+          "padding-left",
+          "padding-right"
+        ],
+        "correct": "padding-top",
+        "questionId": "112"
+      },
+      {
+        "question": "In CSS, styling elements can be done by ?",
+        "answers": [
+          "id",
+          "class",
+          "tag",
+          "All of the above"
+        ],
+        "correct": "All of the above",
+        "questionId": "113"
+      },
+      {
+        "question": "In CSS, font-size is a property-name which _____________ the font of text.",
+        "answers": [
+          "increases",
+          "decreases",
+          "Both A and B",
+          "None of the above"
+        ],
+        "correct": "Both A and B",
+        "questionId": "114"
+      },
+      {
+        "question": "CSS is created and maintained through a group of people within the W3C called the?",
+        "answers": [
+          "CSS Class Tag",
+          "CSS Class Group",
+          "CSS Working Group",
+          "CSS Working Id"
+        ],
+        "correct": "CSS Working Group",
+        "questionId": "115"
+      },
+      {
+        "question": " Which of the following selector selects the elements that are checked?",
+        "answers": [
+          "E ~ F",
+          "::after",
+          ":checked",
+          "none of the mentioned"
+        ],
+        "correct": ":checked",
+        "questionId": "116"
+      },
+      {
+        "question": "__________ has introduced text, list, box, margin, border, color, and background properties.",
+        "answers": [
+          "css",
+          "html",
+          "ajax",
+          "php"
+        ],
+        "correct": "css",
+        "questionId": "117"
+      },
+      {
+        "question": "Which of the following CSS property sets the opacity level for an element?",
+        "answers": [
+          "opacity",
+          "transparency",
+          "transparent",
+          "all of the mentioned"
+        ],
+        "correct": "opacity",
+        "questionId": "118"
+      },
+      {
+        "question": "Which of the following is an appropriate value for overflow element?",
+        "answers": [
+          "hidden",
+          "auto",
+          "scroll",
+          "all of the mentioned"
+        ],
+        "correct": "all of the mentioned",
+        "questionId": "119"
+      },
+      {
+        "question": "Which of the following property specifies the stack order of an element?",
+        "answers": [
+          "order",
+          "z-index",
+          "p-index",
+          "auto"
+        ],
+        "correct": "z-index",
+        "questionId": "120"
+      },
+      {
+        "question": "Which of the following property allows long words to be able to be broken and wrap onto the next line?",
+        "answers": [
+          "line-wrap",
+          "break-word",
+          "word-wrap",
+          "word-break"
+        ],
+        "correct": "word-wrap",
+        "questionId": "121"
+      },
+      {
+        "question": "Which of the following CSS property can be used to provide the flex-direction and flex-wrap properties?",
+        "answers": [
+          "flex",
+          "flex-flow",
+          "flex-wrap",
+          "all of the mentioned"
+        ],
+        "correct": "flex-flow",
+        "questionId": "122"
+      },
+      {
+        "question": "Which of the following property aligns the flexible container’s items when the items do not use all available space on the main-axis?",
+        "answers": [
+          "wrap-content",
+          "fix-content",
+          "adjust-content",
+          "justify-content"
+        ],
+        "correct": "justify-content",
+        "questionId": "123"
+      },
+      {
+        "question": "Which property is used to add space inside the text field?",
+        "answers": [
+          "padding",
+          "margin",
+          "number",
+          "password"
+        ],
+        "correct": "padding",
+        "questionId": "124"
+      },
+      {
+        "question": "Which one can animate the width of search input when get focus?",
+        "answers": [
+          "focus",
+          "transition",
+          "outline",
+          "color"
+        ],
+        "correct": "transition",
+        "questionId": "125"
+      },
+      {
+        "question": "Which is not the property of CSS box model?",
+        "answers": [
+          "width",
+          "height",
+          "margin",
+          "color"
+        ],
+        "correct": "color",
+        "questionId": "126"
+      },
+      {
+        "question": "Which of the following is not the value for an unordered list?",
+        "answers": [
+          "disc",
+          "square",
+          "circle",
+          "numeric"
+        ],
+        "correct": "numeric",
+        "questionId": "127"
+      },
+      {
+        "question": "Which is not a box-level element?",
+        "answers": [
+          "<p>",
+          "<ul>",
+          "<li>",
+          "<b>"
+        ],
+        "correct": "<b>",
+        "questionId": "128"
+      },
+      {
+        "question": "Which should be used to overlay text on image with high contrast?",
+        "answers": [
+          "screen",
+          "high contrast",
+          "low contrast",
+          "opaque"
+        ],
+        "correct": "screen",
+        "questionId": "129"
+      },
+      {
+        "question": "Which of the following will move the image up and down?",
+        "answers": [
+          "repeat-x",
+          "fixed",
+          "scroll",
+          "repeat-y"
+        ],
+        "correct": "scroll",
+        "questionId": "130"
+      },
+      {
+        "question": "ID selector name is preceded by __________",
+        "answers": [
+          "‘.’",
+          "‘%’",
+          "‘#’",
+          "‘@’"
+        ],
+        "correct": "‘#’",
+        "questionId": "131"
+      },
+      {
+        "question": "Which of the following css property specifies a delay for the transition effect?",
+        "answers": [
+          "transition-delay",
+          "transition-effect",
+          "transition",
+          "transition-duration"
+        ],
+        "correct": "transition-delay",
+        "questionId": "132"
+      }
+    ],
+    "JsMcq": [
+      {
+        "question": "Which type of JavaScript language is ___",
+        "answers": [
+          "Object-Oriented",
+          "Object-Based",
+          "Assembly-language",
+          "High-level"
+        ],
+        "correct": "Object-Based",
+        "questionId": "101"
+      },
+      {
+        "question": "Which one of the following also known as Conditional Expression:",
+        "answers": [
+          "Alternative to if-else",
+          "Switch statement",
+          "If-then-else statement",
+          "immediate if"
+        ],
+        "correct": "immediate if",
+        "questionId": "102"
+      },
+      {
+        "question": "In JavaScript, what is a block of statement?",
+        "answers": [
+          "Conditional block",
+          "block that combines a number of statements into a single compound statement",
+          "both conditional block and a single statement",
+          "block that contains a single statement"
+        ],
+        "correct": "block that combines a number of statements into a single compound statement",
+        "questionId": "103"
+      },
+      {
+        "question": "When interpreter encounters an empty statements, what it will do:",
+        "answers": [
+          "Shows a warning",
+          "Prompts to complete the statement",
+          "Throws an error",
+          "Ignores the statements"
+        ],
+        "correct": "Ignores the statements",
+        "questionId": "104"
+      },
+      {
+        "question": "The function and var are known as:",
+        "answers": [
+          "Keywords",
+          "Data types",
+          "Declaration statements",
+          "Prototypes"
+        ],
+        "correct": "Declaration statements",
+        "questionId": "105"
+      },
+      {
+        "question": "Which of the following variables takes precedence over the others if the names are the same?",
+        "answers": [
+          "Global variable",
+          "The local element",
+          "The two of the above",
+          "None of the above"
+        ],
+        "correct": "The local element",
+        "questionId": "106"
+      },
+      {
+        "question": "Which one of the following is the correct way for calling the JavaScript code?",
+        "answers": [
+          "Preprocessor",
+          "Triggering Event",
+          "RMI",
+          "Function/Method"
+        ],
+        "correct": "Function/Method",
+        "questionId": "107"
+      },
+      {
+        "question": "Which of the following type of a variable is volatile?",
+        "answers": [
+          "Mutable variable",
+          "Dynamic variable",
+          "Volatile variable",
+          "Immutable variable"
+        ],
+        "correct": "Mutable variable",
+        "questionId": "108"
+      },
+      {
+        "question": "Which of the following option is used as hexadecimal literal beginning?",
+        "answers": [
+          "00",
+          "0x",
+          "0X",
+          "Both 0x and 0X"
+        ],
+        "correct": "Both 0x and 0X",
+        "questionId": "109"
+      },
+      {
+        "question": "In the JavaScript, which one of the following is not considered as an error:",
+        "answers": [
+          "Syntax error",
+          "Missing of semicolons",
+          "Division by zero",
+          "Missing of Bracket"
+        ],
+        "correct": "Division by zero",
+        "questionId": "101"
+      },
+      {
+        "question": "What is a block statement in JavaScript?",
+        "answers": [
+          "conditional block",
+          "block that contains a single statement",
+          "both conditional block and a single statement",
+          "block that combines multiple statements into a single compound statement"
+        ],
+        "correct": "block that contains a single statement",
+        "questionId": "110"
+      },
+      {
+        "question": "When an empty statement is encountered, a JavaScript interpreter __________",
+        "answers": [
+          "Ignores the statement",
+          "Prompts to complete the statement",
+          "Throws an error",
+          "Shows a warning"
+        ],
+        "correct": "Ignores the statement",
+        "questionId": "111"
+      },
+      {
+        "question": "The “var” and “function” are __________",
+        "answers": [
+          "Keywords",
+          "Declaration statements",
+          "Data types",
+          "Prototypes"
+        ],
+        "correct": "Declaration statements",
+        "questionId": "112"
+      },
+      {
+        "question": "Which of the following option is used as hexadecimal literal beginning?",
+        "answers": [
+          "00",
+          "0x",
+          "0X",
+          "Both 0x and 0X"
+        ],
+        "correct": "Both 0x and 0X",
+        "questionId": "113"
+      },
+      {
+        "question": "Which of the following option is used as hexadecimal literal beginning?",
+        "answers": [
+          "00",
+          "0x",
+          "0X",
+          "Both 0x and 0X"
+        ],
+        "correct": "Both 0x and 0X",
+        "questionId": "114"
+      },
+      {
+        "question": "Which of the following option is used as hexadecimal literal beginning?",
+        "answers": [
+          "00",
+          "0x",
+          "0X",
+          "Both 0x and 0X"
+        ],
+        "correct": "Both 0x and 0X",
+        "questionId": "115"
+      }
+
+    ]
+  }
+]

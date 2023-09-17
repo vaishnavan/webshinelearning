@@ -1,1 +1,17 @@
 client side
+github url:- https://github.com/vaishnavan/learning-code
+
+Deploy guidelines
+
+step1:- npm install -g firebase-tools
+
+step2:- firebase login -> webshine2020@gmail.com
+
+step3:- firebase init
+
+? What do you want to use as your public directory? build
+? Configure as a single-page app (rewrite all urls to /index.html)? Yes
+? Set up automatic builds and deploys with GitHub? No
+? File build/index.html already exists. Overwrite? No
+
+step4:- firebase deploy

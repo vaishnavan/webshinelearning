@@ -30,7 +30,7 @@ export class JourneyMain extends Component {
   }
 
   componentDidMount () {
-    Axios.get('https://webshinejourney.herokuapp.com/alljourney').then(res => {
+    Axios.get('https://learning-code-1axn.vercel.app/alljourney').then(res => {
       this.setState({
         expData: res.data,
         dataShow: true,

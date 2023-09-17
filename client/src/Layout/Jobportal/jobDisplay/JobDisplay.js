@@ -23,7 +23,7 @@ class JobDisplay extends Component {
   }
 
   componentDidMount () {
-    axios.get('https://webshinejourney.herokuapp.com/jobGet').then(res => {
+    axios.get('https://learning-code-1axn.vercel.app/jobGet').then(res => {
       this.setState({
         jobArr: res.data,
       });

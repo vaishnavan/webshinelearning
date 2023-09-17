@@ -10,7 +10,7 @@ import Count from '../SkillCountDown/Count';
 import './learning.css';
 
 class LearningCard extends Component {
-  constructor (props) {
+  constructor(props) {
     super(props);
 
     this.state = {
@@ -59,7 +59,7 @@ class LearningCard extends Component {
     });
   };
 
-  render () {
+  render() {
     const { show1, show2, show3, show4, show5, show6 } = this.state;
     return (
       <div>
@@ -67,16 +67,7 @@ class LearningCard extends Component {
           <div className='video_data'>
             <Count />
             {/* <h2>What is MERN Stack Development ?</h2> */}
-            <video
-              data-aos='fade-up'
-              src='videos/MERN.mp4'
-              width='100%'
-              height='500'
-              trim
-              muted
-              loop
-              autoPlay
-            />
+            <iframe width="880" height="580" src="https://www.youtube.com/embed/4e38-hWNd-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <Batch />
           <div className='learningCard_Heading'>
@@ -87,7 +78,7 @@ class LearningCard extends Component {
           <div data-aos='fade-up' className='learningCard_design'>
             <div className='learningCard_content'>
               <div className='skill_image'>
-                <img src='videos/HTML.jpeg' alt='no' />
+                <img src='videos/htmlcssjs.png' alt='no' />
                 <div className='skill_topic'>
                   <h3>HTML, CSS, JavaScript</h3>
                 </div>
@@ -104,7 +95,7 @@ class LearningCard extends Component {
                     href='https://rzp.io/l/fpgdNVeNjd'
                   >
                     <Icon name='rupee sign' />
-                    999 only
+                    1999 only
                   </a>
                 </p>
                 <h3 className={show1 ? 'contactshow' : 'contacthide'}>Contact: +91 9047609410</h3>
@@ -130,7 +121,7 @@ class LearningCard extends Component {
                     href='https://rzp.io/l/fpgdNVeNjd'
                   >
                     <Icon name='rupee sign' />
-                    999 only
+                    1999 only
                   </a>
                 </p>
                 <h3 className={show2 ? 'contactshow' : 'contacthide'}>Contact: +91 9047609410</h3>
@@ -139,7 +130,7 @@ class LearningCard extends Component {
             {/* third card */}
             <div data-aos='fade-up' className='learningCard_content'>
               <div className='skill_image'>
-                <img src='videos/nodejs.png' alt='no' />
+                <img src='videos/graphql.jpg' alt='no' />
                 <div className='skill_topic'>
                   <h3>Node.Js and MongoDB</h3>
                 </div>
@@ -158,7 +149,7 @@ class LearningCard extends Component {
                     href='https://rzp.io/l/fpgdNVeNjd'
                   >
                     <Icon name='rupee sign' />
-                    999 only
+                    1999 only
                   </a>
                 </p>
                 <h3 className={show3 ? 'contactshow' : 'contacthide'}>Contact: +91 9047609410</h3>
@@ -188,7 +179,7 @@ class LearningCard extends Component {
                     href='https://rzp.io/l/fpgdNVeNjd'
                   >
                     <Icon name='rupee sign' />
-                    399 only
+                    999 only
                   </a>
                 </p>
                 <h3 className={show4 ? 'contactshow' : 'contacthide'}>Contact: +91 9047609410</h3>
@@ -197,7 +188,7 @@ class LearningCard extends Component {
             {/* second card */}
             <div data-aos='fade-up' className='learningCard_content'>
               <div className='skill_image'>
-                <img src='videos/graphql.jpg' alt='no' />
+                <img src='videos/graphql.png' alt='no' />
                 <div className='skill_topic'>
                   <h3>GraphQL</h3>
                 </div>
@@ -214,7 +205,7 @@ class LearningCard extends Component {
                     href='https://rzp.io/l/fpgdNVeNjd'
                   >
                     <Icon name='rupee sign' />
-                    799 only
+                    999 only
                   </a>
                 </p>
                 <h3 className={show5 ? 'contactshow' : 'contacthide'}>Contact: +91 9047609410</h3>
@@ -240,7 +231,7 @@ class LearningCard extends Component {
                     href='https://rzp.io/l/fpgdNVeNjd'
                   >
                     <Icon name='rupee sign' />
-                    499 only
+                    999 only
                   </a>
                 </p>
                 <h3 className={show6 ? 'contactshow' : 'contacthide'}>Contact: +91 9047609410</h3>

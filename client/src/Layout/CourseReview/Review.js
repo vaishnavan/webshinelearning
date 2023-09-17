@@ -60,7 +60,7 @@ class Review extends Component {
         expshare: this.state.expshare,
         rating: this.state.rating,
       };
-      Axios.post('https://webshinejourney.herokuapp.com/reviewpost', reviewData)
+      Axios.post('https://learning-code-1axn.vercel.app/reviewpost', reviewData)
         .then(res => {
           toast.success('Thank you for your Review');
         })
@@ -71,7 +71,7 @@ class Review extends Component {
   };
 
   componentDidMount () {
-    Axios.get('https://webshinejourney.herokuapp.com/allreview').then(res => {
+    Axios.get('https://learning-code-1axn.vercel.app/allreview').then(res => {
       this.setState({
         review: res.data,
       });

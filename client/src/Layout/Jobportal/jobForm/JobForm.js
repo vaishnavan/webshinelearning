@@ -56,7 +56,7 @@ class JobForm extends Component {
         location: this.state.location,
         jobDesc: this.state.jobDesc,
       };
-      Axios.post('https://webshinejourney.herokuapp.com/jobPost', jobData).then(res => {
+      Axios.post('https://learning-code-1axn.vercel.app/jobPost', jobData).then(res => {
         toast.success('Thank you for Adding Job Oppertunity');
       });
     }

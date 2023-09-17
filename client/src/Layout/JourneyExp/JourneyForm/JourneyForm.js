@@ -54,7 +54,7 @@ class JourneyForm extends Component {
         journeyTitle: this.state.journeyTitle,
         experience: this.state.experience,
       };
-      Axios.post('https://webshinejourney.herokuapp.com/', journeyData).then(res => {
+      Axios.post('https://learning-code-1axn.vercel.app/', journeyData).then(res => {
         toast.success('Thank you for sharing your experience');
         this.props.history.push('/journey');
       });

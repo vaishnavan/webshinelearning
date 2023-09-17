@@ -31,7 +31,7 @@ class CodeStack extends Component {
 
   componentDidMount () {
     // const {show} = this.state;
-    Axios.get('https://webshinejourney.herokuapp.com/codeGet').then(res => {
+    Axios.get('https://learning-code-1axn.vercel.app/codeGet').then(res => {
       this.setState({
         codearr: res.data,
         show: true,

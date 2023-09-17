@@ -47,7 +47,7 @@ class CodeForm extends Component {
         codeType: this.state.codeType,
         codeContent: this.state.codeContent,
       };
-      Axios.post('https://webshinejourney.herokuapp.com/codePost', codeData).then(res => {
+      Axios.post('https://learning-code-1axn.vercel.app/codePost', codeData).then(res => {
         toast.success('Thank you for sharing your Code');
       });
     }
